@@ -1,0 +1,25 @@
+{
+  "appHeader": {
+    "mainTitle": "Paribu App",
+    "authenticationTitle": "Login/Sign-Up"
+  },
+  "homePage": {
+    "welcomeTitle": "Welcome to the Paribu App!"
+  },
+  "loginTabText": {
+    "login": "Login",
+    "emailAddress": "Email Address",
+    "password": "Password"
+  },
+  "signUpText": {
+    "signUp": "Sign Up",
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "password": "Password"
+  },
+  "inputErrorMessages": {
+    "userName": "Please enter a valid name which is more than 5 characters at least",
+    "userEmail": "Please enter a valid email",
+    "userPassword": "Please enter a valid password which is more than 5 characters at least"
+  }
+}

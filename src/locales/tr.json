@@ -1,0 +1,25 @@
+{
+  "appHeader": {
+    "mainTitle": "Paribu Uygulaması",
+    "authenticationTitle": "Giriş Yap/Üye Ol"
+  },
+  "homePage": {
+    "welcomeTitle": "Paribu Uygulamasına Hoşgeldiniz!"
+  },
+  "loginTabText": {
+    "login": "Giriş Yap",
+    "emailAddress": "E-posta Adresiniz",
+    "password": "Parolanız"
+  },
+  "signUpText": {
+    "signUp": "Üye Ol",
+    "fullName": "Adınız Soyadınız",
+    "emailAddress": "E-posta Adresiniz",
+    "password": "Parolanız"
+  },
+  "inputErrorMessages": {
+    "userName": "Lütfen 5 karakterden fazla olan bir kullanıcı ismi giriniz",
+    "userEmail": "Lütfen geçerli bir mail adresi giriniz",
+    "userPassword": "Lütfen 5 karakterden fazla olan bir şifre giriniz"
+  }
+}
